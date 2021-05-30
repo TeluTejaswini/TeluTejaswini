@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TeluTejaswini
 - 🌱 I’m currently learning Python and Machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -mail id-telutejaswini01@gmail.com
 
 <!---
